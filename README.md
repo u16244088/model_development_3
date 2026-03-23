@@ -1,0 +1,1 @@
+in this model we developing we going to me using feature such as the amount of hours a learner spend studying , which also include the assigment , exam . the other feature include the miseed classes , missed assginements 
